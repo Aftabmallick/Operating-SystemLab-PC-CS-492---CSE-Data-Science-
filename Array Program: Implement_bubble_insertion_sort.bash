@@ -1,6 +1,5 @@
-#                             Online Bash Shell.
-#                 Code, Compile, Run and Debug Bash script online.
-# Write your code in this editor and press "Run" button to execute it.
+#Array Program: Write algorithms for bubble sort and insertion sort. Implement a shell script to 
+#ort all the elements of an array using those algorithm
 
 
 function insertion()
